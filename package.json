@@ -12,15 +12,15 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^14.3.0",
-    "@angular/common": "^14.3.0",
-    "@angular/compiler": "^14.3.0",
-    "@angular/core": "^14.3.0",
-    "@angular/forms": "^14.3.0",
+    "@angular/animations": "^15.2.10",
+    "@angular/common": "^15.2.10",
+    "@angular/compiler": "^15.2.10",
+    "@angular/core": "^15.2.10",
+    "@angular/forms": "^15.2.10",
     "@angular/http": "^7.2.16",
-    "@angular/platform-browser": "^14.3.0",
-    "@angular/platform-browser-dynamic": "^14.3.0",
-    "@angular/router": "^14.3.0",
+    "@angular/platform-browser": "^15.2.10",
+    "@angular/platform-browser-dynamic": "^15.2.10",
+    "@angular/router": "^15.2.10",
     "core-js": "^2.5.3",
     "ngx-ui-switch": "^15.0.0",
     "rxjs": "^6.6.7",
@@ -30,8 +30,8 @@
   },
   "devDependencies": {
     "@angular/cli": "^16.2.9",
-    "@angular/compiler-cli": "^14.3.0",
-    "@angular/language-service": "^14.3.0",
+    "@angular/compiler-cli": "^15.2.10",
+    "@angular/language-service": "^15.2.10",
     "@types/jasmine": "~2.5.53",
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "^6.0.100",
@@ -47,6 +47,6 @@
     "protractor": "~5.1.2",
     "ts-node": "~3.2.0",
     "tslint": "~5.3.2",
-    "typescript": "^4.6.4"
+    "typescript": "^4.9.5"
   }
 }
